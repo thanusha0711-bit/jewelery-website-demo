@@ -1,2 +1,2 @@
-# glamora-jewels-demo
-A responsive jewellery website demo for Glamora Jewels.
+# jewellery-websitw-demo
+A responsive jewellery website demo.
